@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital@0;1&family=Yeseva+One&display=swap');
+/* font-family: 'Nunito Sans', sans-serif;
+font-family: 'Yeseva One', cursive; */
+
+
+body {
+    margin: 0;
+    font-family: Nunito Sans, Arial, Helvetica, sans-serif;
+}
+
+body * {
+    box-sizing: border-box;    
+}
+
+.container {
+    max-width: 1437.88px;
+    margin: 0 auto;
+}
+
+/* page2 */
+.page2 {
+    background: rgba(19, 19, 19, 1);
+    height: 1074px;
+}
+
+.page2-container {
+    display: flex;
+    flex-direction: column;
+    padding-top: 89px;
+    padding: 107px 135px 257px;
+    align-items: center;
+}
+.page2-columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 92px;
+}
+
+.page2-navigation {
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+
+.page2-navigation__item a{
+    margin-right: 47px;
+    text-decoration: none;   
+    color: rgba(255, 255, 255, 0.3);
+    text-transform: uppercase;
+}
+.page2-navigation__item.active a{        
+    color: #E3B873;    
+    text-decoration: underline;
+}
+
+.page2-img1.active{    
+    height: 482px;
+    width: 679px;
+}
+
+.page2-column-left {
+    margin-top: 69px;
+    margin-right: 50px;
+    height: 482px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.page2-column-right {
+    margin-left: 50px;
+}
+
+.page2-column-left-tab {
+    display: flex;
+    flex-direction: row;
+}
+
+.page2-column-left-left {
+    margin-right: 29px;
+}
+
+.page2-column-left-right {
+    margin-left: 29px;
+}
+
+.page2-text1 {
+    text-transform: uppercase;
+    color: rgba(227, 184, 115, 1);
+    height: 66px;
+    width: 253px;
+    padding: 5px;
+    letter-spacing: -0.07em;
+    text-align: left;   
+}
+
+.page2-text3 {
+    text-transform: uppercase;
+    color: rgba(227, 184, 115, 1);
+    margin-bottom: 9px;
+}
+
+.page2-text2 {
+    color: rgba(255, 255, 255, 1);
+    height: 86px;
+    width: 442px;
+    margin-top: 34px;
+    margin-bottom: 42px;
+}
+
+.page2-text4 {
+    color: rgba(255, 255, 255, 1);
+    height: 42px;
+    margin-top: 9px;
+    margin-bottom: 34px;
+}
+
+.page2-arrows {    
+    margin-top: 37px;
+}
+
+.myImages{
+margin-top: 53px;
+height: 482px;
+width: 679px;
+}
+
+.myImages .image{
+    background-size: cover;
+    background-position: center center;
+    }
+
+    .slider__images-title {       
+        color: #fff;
+        text-align: center;
+        z-index: 1;
+        padding: 7px 0;
+      }

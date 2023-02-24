@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital@0;1&family=Yeseva+One&display=swap');
+
+.accent {
+    color: #E3B873;
+}
+
+/* --------------------- */
+.Yesev40 {       
+    text-transform: uppercase;
+    font-family: Yeseva One, Times New Roman, Times, cursive;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 53px;
+}
+.Yesev27 {
+    font-family: Yeseva One, Times New Roman, Times, cursive;
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 37px;    
+}
+.Yesev20{
+    font-family: Yeseva One, Times New Roman, Times, cursive;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.Yesev18 {
+    font-family: Yeseva One, Times New Roman, Times, cursive;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+}
+.Yesev14 {        
+    font-family: Yeseva One, Times New Roman, Times, cursive;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+}
+
+/* -------------------- */
+
+.Nunito22 {
+    font-family: Nunito Sans, Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 36px;
+}
+.Nunito20 {
+    font-family: Nunito Sans, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 38px;
+}
+.Nunito18 {
+    font-family: Nunito Sans, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 37px;
+}
+
+.Nunito14 { 
+    font-family: Nunito Sans, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px;
+
+}
+
+.Nunito13 {    
+    font-family: Nunito Sans, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21px;    
+}
+.Nunito11 {
+    font-family: Nunito Sans, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 15px;
+}
+
+
+
+
+
